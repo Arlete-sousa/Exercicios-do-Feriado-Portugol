@@ -1,2 +1,2 @@
 # Exercicios-do-Feriado
-Exercicios  de lógica de programação feitos no portugol studio
+Exercicios  de lógica de programação feitos no Portugol Studio
